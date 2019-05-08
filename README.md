@@ -1,1 +1,1 @@
-# CNIT255jttully
+# copy of my CNIT 255 programming assignments
